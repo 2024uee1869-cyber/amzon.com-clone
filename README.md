@@ -1,3 +1,4 @@
 # amzon.com-clone
-This is my first Repository 
+This is my first Repository.
+<br>
 Author - Nishu Yadav
